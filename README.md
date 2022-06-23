@@ -4,3 +4,6 @@ This project shows how you can receive sensor data in Real-time for your IOT pro
 Components
 1. Beard Board
 2. 4 Male to female jumper wires
+3. HC-SR04-Ultrasonic sensor
+4. ESP32 Wifi & Bluetooth micrcontroller
+5. 
